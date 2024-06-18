@@ -1,0 +1,17 @@
+Datasets and Data annotations Tool for Semantic Segmentation
+
+Google Colab for Writing Python Code
+
+Data Augmentation and Data Loading in PyTorch
+
+Performance Metrics (IOU) for Segmentation Models Evaluation
+
+Transfer Learning and Pretrained Deep Resnet Architecture
+
+Segmentation Models Implementation in PyTorch using different Encoder and Decoder Architectures
+
+Hyperparameters Optimization and Training of Segmentation Models
+
+Test Segmentation Model and Calculate IOU, Class-wise IOU, Pixel Accuracy, Precision, Recall and F-score
+
+Visualize Segmentation Results and Generate RGB Predicted Segmentation Map
